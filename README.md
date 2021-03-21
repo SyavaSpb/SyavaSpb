@@ -1,7 +1,7 @@
 ## Nostagic games hub
 http://nostalgicgameshub.ru  
 https://github.com/SyavaSpb/Nostalgia-game-hub  
-node, react, webpack
+node, react, webpack  
 Подробнее в readme репозитория.  
 
 
