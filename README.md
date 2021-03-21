@@ -11,7 +11,7 @@ node, react, webpack
 http://saveliyportfolio.ru/pikobara/index.html  
 https://github.com/SyavaSpb/Pikobara  
 html, css, js, sass, gulp  
-Сверстал макет для тренироваки использования sass.   
+Сверстал макет для тренироваки sass.   
 Подробнее в readme репозитория.  
 
 - ### Joy
